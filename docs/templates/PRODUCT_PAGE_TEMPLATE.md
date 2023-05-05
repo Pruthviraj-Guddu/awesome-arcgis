@@ -76,9 +76,9 @@ And
 
 |Event|Title|Length|
 |---|---|---|
-|Event name|Video title| [X]h [Y]min [z]secs|
+|[DevSummit](http://www.esri.com/events/devsummit) 2020|Video title| [X]h [Y]min [z]secs|
 
-> You might also find interesting videos at [Esri Industries](https://www.youtube.com/channel/UCZTiOg3n0pqUDSatq7mS2PA/search?query="PRODUCT"), [ArcGIS](https://www.youtube.com/channel/UCgGDPs8cte-VLJbgpaK4GPw/search?query="PRODUCT"), [EsriTV](https://www.youtube.com/user/esritv/search?query="PRODUCT"), [Esri R&D Center](https://www.youtube.com/user/esripdx/search?query="PRODUCT") [etc](https://esri-es.github.io/awesome-arcgis/esri/#youtube-channels)
+> You might also find interesting videos at [Esri Industries](https://www.youtube.com/channel/UCZTiOg3n0pqUDSatq7mS2PA/search?query="PRODUCT"), [ArcGIS](https://www.youtube.com/channel/UCgGDPs8cte-VLJbgpaK4GPw/search?query="PRODUCT"), [EsriTV](https://www.youtube.com/user/esritv/search?query="PRODUCT"), [Esri R&D Center](https://www.youtube.com/user/esripdx/search?query="PRODUCT") [etc](https://esri-es.github.io/awesome-arcgis/esri/#youtube-channels), and [distributor's Youtube Channels](../../../esri#youtube-channels)
 
 ### Slides
 
@@ -87,6 +87,21 @@ More slides in [*proceedings.esri.com*](https://www.google.es/search?q=site%3Apr
 ## Get the tool
 
 *If you need and [ArcGIS Developer Subscription](https://developers.arcgis.com/pricing/), if this technology depends on another one, dowloaded from developers.arcgis.com or any repo, installation guide, if it is accessible though the Startup Program (or any other program), etc*
+
+There are many ways to get PRODUCT, here are a few listed:
+
+|Plan/Program|Cost|Duration|Audience|Purpose|
+|---|---|---|---|---|
+|ArcGIS Trials|No|21 days|Anyone|Non-profits|
+|Startup Program|No|Annual|Startups|Build products|
+|Technology Exchange Program|No|Annual|Industry Leaders|Non-profits|
+|ArcGIS for Personal/Student use|Yes|Unlimited|Individuals|Non-profits|
+|Non-profits Organizations|Yes|Anual|Non-profits Orgs|Non-profits|
+|ArcGIS Developer Plan|Yes|>=Builder|Anyone|Build products|
+
+> **Guidance information**: all/most programs with cost listed here are between: [90€ - 199€]
+
+Feel free to contact Esri or your local distributor for more information: [https://www.esri.com/en-us/contact](https://www.esri.com/en-us/contact)
 
 ## Coding
 
@@ -106,7 +121,7 @@ Github:
 
 ## Awesome projects and cool demos
 
-*If it make sense, a list to nice apps build using this technology: live previews, videos from [Esri Events](https://www.youtube.com/channel/UC_yE3TatdZKAXvt_TzGJ6mw) (at plenaries for example: [2018](https://www.youtube.com/watch?v=K2lBYyAGN_c&list=PLaPDDLTCmy4aE-073hhwZQplvJ8MmKZCe), [2017](https://www.youtube.com/watch?v=uHDkhm3QiTY&list=PLaPDDLTCmy4aJoXyro9yWOr2pdIe0mr9A), [2016](https://www.youtube.com/watch?v=Qn7ezk-9iqs&list=PLaPDDLTCmy4ZvztJzqBnGTBoD0Lz9r39S)), [Esri Industries](https://www.youtube.com/channel/UCZTiOg3n0pqUDSatq7mS2PA/), business cases, etc*
+* If it make sense, a list to nice apps build using this technology: live previews, videos from [Esri Events](https://www.youtube.com/channel/UC_yE3TatdZKAXvt_TzGJ6mw) (at plenaries for example: [2018](https://www.youtube.com/watch?v=K2lBYyAGN_c&list=PLaPDDLTCmy4aE-073hhwZQplvJ8MmKZCe), [2017](https://www.youtube.com/watch?v=uHDkhm3QiTY&list=PLaPDDLTCmy4aJoXyro9yWOr2pdIe0mr9A), [2016](https://www.youtube.com/watch?v=Qn7ezk-9iqs&list=PLaPDDLTCmy4ZvztJzqBnGTBoD0Lz9r39S)), [Esri Industries](https://www.youtube.com/channel/UCZTiOg3n0pqUDSatq7mS2PA/), business cases, etc*
 
 Find more awesome projects and cool demos in the [Awesome ArcGIS organization in ArcGIS Online](https://awesome-arcgis.maps.arcgis.com/home/group.html?id=8cb77aecfb4d49cb8460a97181aa5434&view=list&start=1&num=20&searchTerm=PRODUCT#content).
 
@@ -151,7 +166,7 @@ You can also explore the experts in the [Awesome ArcGIS organization in ArcGIS O
 
 More news:
 
-* ["PRODUCT" at esri.com search engine](https://www.esri.com/en-us/search#/?q=PRODUCT&v=0&tab=Explore&page=1)
+* ["PRODUCT" at esri.com search engine](https://www.esri.com/arcgis-blog/?s=#&products=arcgis-hub)
 * [Blog Posts about "PRODUCT" inside Places at GeoNet](https://community.esri.com/content?query=PRODUCT&filterID=all~objecttype~objecttype%5Bblogpost%5D)
 * Does this topic/product have a [Twitter account](https://github.com/esri-es/awesome-arcgis/tree/master/esri#twitter-accounts) or Hashtag?
 * etc

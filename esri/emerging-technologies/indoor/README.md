@@ -144,6 +144,8 @@ Probably not all the resources are in this list, please use the [ArcGIS Search](
 Live projects:
 * [Rutas indoor Esri España](http://preventas.maps.arcgis.com/apps/webappviewer/index.html?id=db5eddd09b5b4180bc82ee73f074b2a1)
 * [Responsive App 2D Indoor](http://esriespana.s3.amazonaws.com/iframeiphone/mobile-frame.html?u=http://sigeuz.unizar.es/)
+* [ArcGIS Indoors - Gestión inteligente de los espacios](https://preventas.maps.arcgis.com/apps/Cascade/index.html?appid=47b7243a6a144399ae76d0ea511f871a)
+* [Gemelo Digital](https://indoors1071.esri.es/portal/apps/sites/#/digitaltwin) - Disponible en horario laboral (hora de Madrid)
 * Operation Dashboard:
     * [Gestión Smart Campus UNIZAR](http://preventas.maps.arcgis.com/home/item.html?id=4a74ec30b1fb4364a81a78dcbec668db)
 
@@ -155,11 +157,15 @@ Videos:
 
 ### Related technologies
 
+Tools to create: 3D Virtual Tours, 3D indoor floor plans reconstruction, dollhouse views, etc.
+
 * [AR Plan 3D Ruler – Camera to Plan, Floorplanner
 ](https://play.google.com/store/apps/details?id=com.grymala.arplan)
 * [Cupix.com](https://www.cupix.com/): Capture a space in 3D
 without a 3D scanner create 3D tours and much more
     * More about: [3D indoor floor plans reconstruction from spherical panoramas](https://www.google.com/search?q=3D+indoor+reconstruction+from+spherical+panoramas): [Agisoft](https://www.agisoft.com/), [AliceVision](https://github.com/alicevision/AliceVision/blob/develop/src/software/utils/main_split360Images.cpp), [LayoutNet](https://github.com/zouchuhang/LayoutNet), etc.
+* [Holo Builder](https://www.holobuilder.com/)
+* [Matterport](https://matterport.com/)
 
 ### Other related list of resources
 

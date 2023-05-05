@@ -12,6 +12,7 @@
 - [Community](#community)
 - [News](#news)
 - [People you should know](#people-you-should-know)
+- [Resources in Spanish](#resources-in-spanish)
 - [Others](#others)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -67,6 +68,10 @@ International program managers
 |![Lucian](./img/lucian-zavate.jpg)|[Lucian Zavate](https://www.linkedin.com/in/lucian-zavate-05891834/)|n.a.|Rumania
 
 But you would probably want to know also about more [ArcGIS Experts](https://esri-es.github.io/arcgis-experts/).
+
+## Resources in Spanish
+
+* [Programa Startups de Esri: Datos y tecnologías para trabajar con información geolocalizada y mapas (Perk)](https://docs.google.com/presentation/d/1v3y7cRC99Rfj34Gziyrxo-X3Y7DuPHhgGvVs5ivx4YQ/edit?usp=sharing)
 
 ## Others
 
